@@ -4,7 +4,7 @@
 - Çalışanın maaşı 1000 TL'den az ise vergi uygulanmaz.
 - Çalışanın maaşı 1000 TL'den fazla ise maaşının %3'ü kadar vergi uygulanır.
 
-* -Eğer çalışan haftada 40 saatten fazla çalışmış ise fazladan çalıştığı her saat başına 30 TL olacak şekilde bonus ücretleri hesaplanır.
+* Eğer çalışan haftada 40 saatten fazla çalışmış ise fazladan çalıştığı her saat başına 30 TL olacak şekilde bonus ücretleri hesaplanır.
 
 - Çalışanın işe başlangıç yılına göre maaş artışı hesaplanır. Şuan ki yıl 2021 olarak alınır.
 - Eğer çalışan 10 yıldan az bir süredir çalışıyorsa maaşına %5 zam yapılır.
